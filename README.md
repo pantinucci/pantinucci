@@ -13,7 +13,7 @@
 
 ## Summary
 
-I build, evaluate and deploy deep learning multi-modal machine learning systems for biological discovery—turning messy, high-dimensional data into models that are **robust, reproducible, and production-minded**.
+I build, evaluate and deploy multi-modal deep learning systems for biological discovery—turning messy, high-dimensional data into models that are **robust, reproducible, and production-minded**.
 
 At **Biographica**, I work on **ML methods for target discovery and edit design**, supporting AI-driven pipelines for crop genetics and gene-editing. Previously, I developed ML models for target identification in industry, after training in **molecular biology** and **computational neuroscience** (PhD + postdoc).
 
@@ -53,6 +53,7 @@ At **Biographica**, I work on **ML methods for target discovery and edit design*
 [![Dagster](https://img.shields.io/badge/Dagster-4B5563?style=for-the-badge&logo=dagster&logoColor=white)](https://dagster.io/)
 
 ### Visualization
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)](https://matplotlib.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/python/)
 
 ### Graph & Databases
@@ -68,8 +69,4 @@ At **Biographica**, I work on **ML methods for target discovery and edit design*
 [![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/codex/)
 
 ---
-
-<!--
-Tip: this is a profile README. Make sure your repo is named exactly like your GitHub username.
--->
 
