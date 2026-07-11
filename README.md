@@ -15,7 +15,7 @@
 
 I build, evaluate and deploy multi-modal deep learning systems for biological discovery—turning messy, high-dimensional data into models that are **robust, reproducible, and production-minded**.
 
-At **Biographica**, I work on **ML methods for target discovery and edit design**, supporting AI-driven pipelines for crop genetics and gene-editing. Previously, I developed ML models for target identification in industry, after training in **molecular biology** and **computational neuroscience** (PhD + postdoc).
+At **Biographica**, I work on **ML methods for target discovery and edit design**, supporting AI-driven pipelines for crop genetics and gene-editing. Previously, I developed ML models for target identification in biotech, after training in **molecular biology** and **computational neuroscience** (PhD + postdoc).
 
 **Focus areas:** ML • AI • Deep Learning • representation learning • multimodal modeling • scientific ML • scalable data & MLOps
 
